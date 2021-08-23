@@ -1,0 +1,9 @@
+name: RankList
+version: 1.0.0
+main: haykalpro\rl\main
+api: 3.0.0
+author: HaykalPRO
+
+commands:
+              rank:
+                  description: "§l§aShow Your Rank List In Server"
